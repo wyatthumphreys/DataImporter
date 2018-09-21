@@ -1,4 +1,7 @@
 #Wyatt Humnphreys CNA 330 9/20/18
+#Sources: https://stackoverflow.com/questions/2887878/importing-a-csv-file-into-a-sqlite3-database-table-using-python
+#https://www.periscopedata.com/blog/python-create-table
+#https://realpython.com/python-csv/
 
 import os, csv, sqlite3
 
